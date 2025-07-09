@@ -45,7 +45,7 @@ This project performs an exploratory data analysis (EDA) on historical Tesla sto
 - **Correlation:** The heatmap highlights relationships between price and volume.
 
 ## How to Use
-1. Run the `lab_work.py` script or the Jupyter notebook to perform EDA and export the cleaned data.
+1. Run the `Tesla_EDA.ipynb` script or the Jupyter notebook to perform EDA and export the cleaned data.
 2. Use `Tesla_Stock_Cleaned.csv` as a data source in Power BI for dashboarding and further analysis.
 
 ## Requirements
